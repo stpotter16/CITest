@@ -9,7 +9,7 @@ before_install:
         - export DOCKER_RUN="docker run -v ${TRAVIS_BUILD_DIR}:/home/test koomietx/class-ci:v1.0"
 
 script:
-        - ${DOCKER_RUN} /bin/bash -l -c "autoreconf -f -i && ./configure && make && make check"
+        - ${DOCKER_RUN} /bin/bash -l -c "module load hdf5 && autoreconf -f -i && ./configure && make && make check"
 
 notifications:
         email: false
