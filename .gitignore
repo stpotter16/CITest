@@ -12,5 +12,6 @@ stamp-h1
 .deps
 *.dat
 !input.dat
+!1d2ndinput.dat
 heatFD
 inputs/
