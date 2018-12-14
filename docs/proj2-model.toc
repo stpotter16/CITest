@@ -1,0 +1,42 @@
+\contentsline {section}{\numberline {1}Abstract}{2}{section.1}
+\contentsline {section}{\numberline {2}Executive Summary}{2}{section.2}
+\contentsline {section}{\numberline {3}Usage}{3}{section.3}
+\contentsline {subsection}{\numberline {3.1}Build Procedure}{3}{subsection.3.1}
+\contentsline {subsubsection}{\numberline {3.1.1}Autotools}{3}{subsubsection.3.1.1}
+\contentsline {subsection}{\numberline {3.2}Input Options}{3}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Verification Procedure}{3}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Verification Exercise}{4}{subsection.3.4}
+\contentsline {subsection}{\numberline {3.5}Performance Measures}{4}{subsection.3.5}
+\contentsline {section}{\numberline {4}Problem Setup}{5}{section.4}
+\contentsline {subsection}{\numberline {4.1}Governing Equations}{5}{subsection.4.1}
+\contentsline {subsubsection}{\numberline {4.1.1}One Dimensional Case}{5}{subsubsection.4.1.1}
+\contentsline {subsubsection}{\numberline {4.1.2}Two Dimensional Case}{6}{subsubsection.4.1.2}
+\contentsline {subsection}{\numberline {4.2}Nomenclature}{6}{subsection.4.2}
+\contentsline {subsubsection}{\numberline {4.2.1}One Dimensional Case}{6}{subsubsection.4.2.1}
+\contentsline {subsubsection}{\numberline {4.2.2}Two Dimensional Case}{7}{subsubsection.4.2.2}
+\contentsline {subsection}{\numberline {4.3}Boundary Conditions}{7}{subsection.4.3}
+\contentsline {subsubsection}{\numberline {4.3.1}One Dimensional Case}{7}{subsubsection.4.3.1}
+\contentsline {subsubsection}{\numberline {4.3.2}Two Dimensional Case}{8}{subsubsection.4.3.2}
+\contentsline {subsection}{\numberline {4.4}Constitutive Inputs}{8}{subsection.4.4}
+\contentsline {subsubsection}{\numberline {4.4.1}One Dimensional Case}{8}{subsubsection.4.4.1}
+\contentsline {subsubsection}{\numberline {4.4.2}Two Dimensional Case}{8}{subsubsection.4.4.2}
+\contentsline {section}{\numberline {5}Assumptions}{8}{section.5}
+\contentsline {subsection}{\numberline {5.1}One Dimensional Case}{8}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Two Dimensional Case}{9}{subsection.5.2}
+\contentsline {section}{\numberline {6}Numerics}{9}{section.6}
+\contentsline {subsection}{\numberline {6.1}Finite Difference}{9}{subsection.6.1}
+\contentsline {subsubsection}{\numberline {6.1.1}One Dimensional Case}{9}{subsubsection.6.1.1}
+\contentsline {subsubsection}{\numberline {6.1.2}Two Dimensional Case}{9}{subsubsection.6.1.2}
+\contentsline {subsection}{\numberline {6.2}Meshing}{10}{subsection.6.2}
+\contentsline {subsubsection}{\numberline {6.2.1}General Notes}{10}{subsubsection.6.2.1}
+\contentsline {subsubsection}{\numberline {6.2.2}1D Problem}{10}{subsubsection.6.2.2}
+\contentsline {subsubsection}{\numberline {6.2.3}2D Problem}{10}{subsubsection.6.2.3}
+\contentsline {subsection}{\numberline {6.3}Linear System}{10}{subsection.6.3}
+\contentsline {subsubsection}{\numberline {6.3.1}1D Problem}{10}{subsubsection.6.3.1}
+\contentsline {subsubsection}{\numberline {6.3.2}2D Problem}{15}{subsubsection.6.3.2}
+\contentsline {subsection}{\numberline {6.4}Solvers}{18}{subsection.6.4}
+\contentsline {subsubsection}{\numberline {6.4.1}Jacobi}{18}{subsubsection.6.4.1}
+\contentsline {subsubsection}{\numberline {6.4.2}Gauss-Seidel}{19}{subsubsection.6.4.2}
+\contentsline {subsection}{\numberline {6.5}Memory Considerations}{20}{subsection.6.5}
+\contentsline {subsubsection}{\numberline {6.5.1}1D Problem}{20}{subsubsection.6.5.1}
+\contentsline {subsubsection}{\numberline {6.5.2}2D Problem}{20}{subsubsection.6.5.2}
