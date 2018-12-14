@@ -12,7 +12,7 @@ script:
         - ${DOCKER_RUN} /bin/bash -l -c "module load hdf5 && autoreconf -f -i && ./configure && make && make check"
 
 after_failure:
-	- cat test/test-suite.log
+        - cat test/test-suite.log
 
 notifications:
         email: false
