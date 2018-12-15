@@ -13,7 +13,7 @@ script:
 
 after_failure:
         - ls
-        - cat /home/test/test-suite.log
+        - cat ./test/test-suite.log
 
 notifications:
         email: false
