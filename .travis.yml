@@ -13,7 +13,7 @@ script:
 
 after_failure:
         - cd test
-	- ls -l
+        - ls -l
         - cat ./test/test-suite.log
 
 notifications:
