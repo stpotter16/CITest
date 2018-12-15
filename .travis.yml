@@ -12,7 +12,8 @@ script:
         - ${DOCKER_RUN} /bin/bash -l -c "module load hdf5 && autoreconf -f -i && ./configure && make && make check"
 
 after_failure:
-        - ls
+        - cd test
+	- ls -l
         - cat ./test/test-suite.log
 
 notifications:
